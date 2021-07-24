@@ -1,0 +1,16 @@
+{
+  "name": "http-headers-nodejs",
+  "version": "1.0.0",
+  "description": "Http-Headers",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nabeel Javed",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
